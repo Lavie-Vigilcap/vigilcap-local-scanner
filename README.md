@@ -11,4 +11,4 @@ We open-source our core scanning module to allow asset owners (Sellers) and acqu
 **Note:** The Financial Quantification Engine, Remediation Capex Models, and AI Narrative Synthesis modules are proprietary and included only in the compiled binary distribution.
 
 ---
-*© 2025 Vigilcap Risk Analytics. All Rights Reserved.*
+*© 2026 Vigilcap Risk Analytics. All Rights Reserved.*
